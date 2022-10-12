@@ -45,8 +45,8 @@ public class WindowReplacement {
     widthConsole = myScanner.nextLine();
     
     //convert the string to height and width to float values
-    height = Integer.parseInt(heightConsole);
-    width = Integer.parseInt(widthConsole);
+    height = Float.parseFloat(heightConsole);
+    width = Float.parseFloat(widthConsole);
     
     //calculate the area of the Window
     areaOfWindow = height * width;
