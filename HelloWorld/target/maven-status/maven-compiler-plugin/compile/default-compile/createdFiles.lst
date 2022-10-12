@@ -1,5 +1,6 @@
 com/sg/foundations/basics/core/ABegining.class
 com/sg/foundations/random/FortuneCookie.class
+com/sg/foundations/random/HighRoller.class
 com/mthree/helloworld/HelloWorld.class
 com/sg/foundations/variables/AllAboutMe.class
 com/sg/foundations/variables/TheOrderOfThings.class
