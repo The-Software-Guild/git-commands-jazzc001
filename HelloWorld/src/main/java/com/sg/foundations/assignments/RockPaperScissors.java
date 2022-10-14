@@ -28,9 +28,6 @@ public class RockPaperScissors {
         game();
         playAgain();
         System.out.println("Thanks for playing!");
-       
-        
-              
     }
     /*
         This is the logic to compare the robotChoice and user Choice
