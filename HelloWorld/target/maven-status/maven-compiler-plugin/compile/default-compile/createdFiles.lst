@@ -14,6 +14,7 @@ com/sg/foundations/basics/arrays/FruitsBasket.class
 com/sg/foundations/random/ALittleChaos.class
 com/sg/foundations/basics/arrays/ARainbow.class
 com/sg/foundations/basics/arrays/SimpleCombination.class
+com/sg/foundations/flowcontrol/ifs/BirthStones.class
 com/sg/foundations/basics/arrays/StillPositive.class
 com/sg/foundations/random/CoinFlipper.class
 com/sg/foundations/flowcontrol/ifs/GuessMe.class
@@ -26,6 +27,7 @@ com/sg/foundations/basics/arrays/FruitSalad.class
 com/sg/foundations/basics/core/AllTheMaths.class
 com/sg/foundations/variables/MoreBucketsMoreFun.class
 com/sg/foundations/basics/core/ProjectGutenberg.class
+com/sg/foundations/flowcontrol/ifs/TriviaNight.class
 com/sg/foundations/assignments/DogGenetics.class
 com/sg/foundations/basics/LuckySevens.class
 com/sg/foundations/flowcontrol/ifs/SpaceRustlers.class

@@ -13,14 +13,17 @@ public class SpaceRustlers {
 
         int spaceships = 10;
         int aliens = 25;
-        int cows = 100;
+        int cows = 9;
 
         if(aliens > spaceships){
             System.out.println("Vrroom, vroom! Let's get going!");
         } else{
             System.out.println("There aren't enough green guys to drive these ships!");
         }
-
+        
+        // if statement execute "Wow, way to plan ahead! JUST enough room for all these walking hamburgers!" when cows equals to spaceships
+        // else if execute the condition if the number of cows bigger than the number of spaceship, it will execute "Dangit! I don't how we're going to fit all these cows in here!"
+        //if remove else from else if, in case cows < spaceship, it will not execute "Too many ships! Not enough cows."
         if(cows == spaceships){
             System.out.println("Wow, way to plan ahead! JUST enough room for all these walking hamburgers!");
         } else if (cows > spaceships){
