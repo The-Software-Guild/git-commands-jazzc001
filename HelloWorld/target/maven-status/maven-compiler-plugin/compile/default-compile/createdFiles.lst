@@ -19,6 +19,7 @@ com/sg/foundations/basics/arrays/SimpleCombination.class
 com/sg/foundations/flowcontrol/ifs/BirthStones.class
 com/sg/foundations/basics/arrays/StillPositive.class
 com/sg/foundations/random/CoinFlipper.class
+com/sg/foundations/flowcontrol/whiles/StayPositive.class
 com/sg/foundations/flowcontrol/ifs/GuessMe.class
 com/mthree/helloworld/HelloWorld.class
 com/sg/foundations/assignments/RockPaperScissors.class
