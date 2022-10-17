@@ -15,6 +15,7 @@ com/sg/foundations/basics/arrays/ARainbow.class
 com/sg/foundations/basics/arrays/SimpleCombination.class
 com/sg/foundations/basics/arrays/StillPositive.class
 com/sg/foundations/random/CoinFlipper.class
+com/sg/foundations/flowcontrol/ifs/GuessMe.class
 com/mthree/helloworld/HelloWorld.class
 com/sg/foundations/assignments/RockPaperScissors.class
 com/sg/foundations/assignments/SummativeSums.class
