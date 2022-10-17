@@ -5,13 +5,14 @@ com/sg/foundations/flowcontrol/ifs/LlamasWhalesAndDodosOhMy.class
 com/sg/foundations/flowcontrol/ifs/YourLifeInMovies.class
 com/sg/foundations/random/FortuneCookie.class
 com/sg/foundations/random/HighRoller.class
+com/sg/foundations/exercise/InterestCalculator.class
 com/sg/foundations/variables/AllAboutMe.class
 com/sg/foundations/flowcontrol/ifs/KnockKnock.class
 com/sg/foundations/basics/arrays/HiddenNuts.class
 com/mthree/windowreplacement/WindowReplacement.class
 com/sg/foundations/variables/InABucket.class
-com/sg/foundations/basics/InterestCalculator.class
 com/sg/foundations/basics/arrays/FruitsBasket.class
+com/sg/foundations/exercise/LuckySevens.class
 com/sg/foundations/random/ALittleChaos.class
 com/sg/foundations/basics/arrays/ARainbow.class
 com/sg/foundations/basics/arrays/SimpleCombination.class
@@ -32,7 +33,7 @@ com/sg/foundations/flowcontrol/ifs/TriviaNight.class
 com/sg/foundations/assignments/DogGenetics.class
 com/sg/foundations/flowcontrol/ifs/FieldDay.class
 com/sg/foundations/flowcontrol/ifs/PickyEater.class
+com/sg/foundations/flowcontrol/whiles/WaitAWhile.class
 com/sg/foundations/flowcontrol/ifs/MiniZork.class
-com/sg/foundations/basics/LuckySevens.class
 com/sg/foundations/flowcontrol/ifs/SpaceRustlers.class
 com/sg/foundations/random/Opinionator.class
