@@ -6,6 +6,7 @@ com/sg/foundations/flowcontrol/ifs/YourLifeInMovies.class
 com/sg/foundations/random/FortuneCookie.class
 com/sg/foundations/random/HighRoller.class
 com/sg/foundations/variables/AllAboutMe.class
+com/sg/foundations/flowcontrol/ifs/KnockKnock.class
 com/sg/foundations/basics/arrays/HiddenNuts.class
 com/mthree/windowreplacement/WindowReplacement.class
 com/sg/foundations/variables/InABucket.class
@@ -29,6 +30,7 @@ com/sg/foundations/variables/MoreBucketsMoreFun.class
 com/sg/foundations/basics/core/ProjectGutenberg.class
 com/sg/foundations/flowcontrol/ifs/TriviaNight.class
 com/sg/foundations/assignments/DogGenetics.class
+com/sg/foundations/flowcontrol/ifs/PickyEater.class
 com/sg/foundations/basics/LuckySevens.class
 com/sg/foundations/flowcontrol/ifs/SpaceRustlers.class
 com/sg/foundations/random/Opinionator.class
