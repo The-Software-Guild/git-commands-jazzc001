@@ -24,7 +24,6 @@ com/sg/foundations/random/CoinFlipper.class
 com/sg/foundations/flowcontrol/whiles/StayPositive.class
 com/sg/foundations/flowcontrol/ifs/GuessMe.class
 com/mthree/helloworld/HelloWorld.class
-com/sg/foundations/assignments/RockPaperScissors.class
 com/sg/foundations/assignments/SummativeSums.class
 com/sg/foundations/variables/TheOrderOfThings.class
 com/sg/foundations/basics/core/CommetingCode.class
